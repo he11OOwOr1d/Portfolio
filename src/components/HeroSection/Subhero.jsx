@@ -6,7 +6,6 @@ const Subhero = () => {
       <p className='md:block sm:hidden'>Team Work</p>
       <p className='md:block sm:hidden'>Learner</p>
       <p className='md:block sm:hidden'>DSA Problem Solver</p>
-      <p>Leetcode paglu</p>
     </div>
   )
 }
